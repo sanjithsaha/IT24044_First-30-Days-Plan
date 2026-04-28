@@ -90,3 +90,18 @@ Code: https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-0
 - Practiced loop (for-each) to print elements
 - Learned HashMap (key-value pairs)
 - Used methods: put(), get(), keySet()
+
+
+# Day 07 (25-04-2026)
+# Topic: Exploring Sets ( HashSet & TreeSet)
+
+Vedio: https://youtu.be/XDw-BkAZYmY?si=OstR1oZ3od7ZxjUa
+
+Code: https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-07(25-04-2026)
+# Summary:
+- Learned that HashSet and TreeSet store unique elements (no duplicates).
+- HashSet is unordered, while TreeSet keeps elements sorted.
+- Practiced operations like add(), remove(), and contains().
+- Understood performance: HashSet is faster; TreeSet uses a tree for sorting
+
+
