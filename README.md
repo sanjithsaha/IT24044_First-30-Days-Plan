@@ -29,24 +29,33 @@ https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-1(19-04-
 # Date:20-04-2026
 ## Day #02
 ## Topic Name :Using Encapsulation in JAVA
-# Video Link :
-https://youtu.be/HZUUYnIZO_0?si=vGzRNHMtLlLg2Bd7
-## The Things I have learned from the  video -->
 
+Video Link :https://youtu.be/HZUUYnIZO_0?si=vGzRNHMtLlLg2Bd7
 
-# Example Code link
-https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-02(20-04-2026)%20
+Code link:https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-02(20-04-2026)%20
+
+Summary:
+- Access modifiers: public, private, protected, default
+- Scope and visibility rules
+- Concept of encapsulation
+- Data hiding using private variables
+- Getter and setter methods
 
 # Date:21-04-2026
 ## Day #03
 ## Topic Name :Parameterised Method in Class
-# Video Link :
+
+Video Link :
 https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
-## The Things I have learned from the  video -->
 
+Code link:https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-03(21-04-2026)%20%20
 
-# Example Code link
-https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-03(21-04-2026)%20%20
+# Summary:
+
+- Definition of constructor
+- Default vs parameterized constructor
+- Constructor overloading
+- Role in object initialization
 
 
 # Day 04 (22-04-2026)
