@@ -54,11 +54,6 @@ https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-03(21-04
 
 Video: https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 
-# Code: Day 04 (22-04-2026)
-Topic: Super Class, Subclass, Inheritance & Polymorphism
-
-Video: https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
-
 Code:https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-04(22-04-2026)
 
 Summary:
