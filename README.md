@@ -49,30 +49,32 @@ https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7
 https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-03(21-04-2026)%20%20
 
 
-Day 04 (22-04-2026)
+# Day 04 (22-04-2026)
+# Topic: Super Class, Subclass, Inheritance & Polymorphism
+
+Video: https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
+
+# Code: Day 04 (22-04-2026)
 Topic: Super Class, Subclass, Inheritance & Polymorphism
 
 Video: https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 
-Code: Day 04 (22-04-2026)
-Topic: Super Class, Subclass, Inheritance & Polymorphism
-
-Video: https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
-
-Code: https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-04(22-04-2026)
+Code:https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-04(22-04-2026)
 
 Summary:
-
 Superclass and subclass relationship
 Inheritance types in Java
 Method overriding
 Runtime polymorphism
 Use of super keyword
 
-Summary:
+# Day 05 (23-04-2026)
+# Topic: Using Abstraction && Inner Class
+Vedio: https://youtu.be/1SXyi3DK-88?si=cnoagPnoZNdGig4S https://youtu.be/lsJ9QjJPbx8?si=G0VxAZY9m5Cmm8zQ
+Code:https://github.com/sanjithsaha/IT24044_First-30-Days-Plan/tree/main/Day-05(23-04-2026)
+# Summary:
+Learned how to create classes and objects in Java
+Understood constructor to initialize values (title, author)
+Learned inner class concept (Library.Book) and object creation
+Practiced encapsulation using private variables and methods
 
-Superclass and subclass relationship
-Inheritance types in Java
-Method overriding
-Runtime polymorphism
-Use of super keyword
