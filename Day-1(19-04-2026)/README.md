@@ -43,8 +43,8 @@ class Student {
 public class Main_student {
     public static void main(String[] args) {
         Student s1 = new Student();
-        s1.name = "Mohitul Islam";
-        s1.Roll = 65;
+        s1.name = "Sanjith Saha";
+        s1.Roll =44;
         s1.district = "Tangail";
         s1.Number = "01611211238";
         s1.Show();
