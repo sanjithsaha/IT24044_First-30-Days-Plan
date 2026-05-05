@@ -33,7 +33,7 @@ class Student {
 
     void Show() {
         System.out.println("Name: ");
-        System.out.println("Roll: ";
+        System.out.println("Roll: ");
         System.out.println("District: ");
         System.out.println("Number: ");
         System.out.println();
